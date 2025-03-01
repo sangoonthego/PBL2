@@ -1,0 +1,5 @@
+admin1 123; 1
+admin2 123; 1
+user1 321; 0
+user2; 321; 0
+user3; 321; 0
